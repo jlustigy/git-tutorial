@@ -1,0 +1,17 @@
+This file exists for the sole purpose of learning about merge conflicts. Users can clone or fork this repo and make changes to this file and deal with the merge conflicts that ensue.
+
+Meaningless BS Below
+--------------------
+
+x = 10
+y = 20
+z = -100
+
+foo = "Hello"
+
+Jake exclaims, "This doesn't have to be code!" 
+The silence is deafening.  
+
+
+
+ 
